@@ -1,31 +1,31 @@
-# 👋 Hi, I'm a Front-End Developer
+# 👋 Hi, I'm Elnaz Lotfi  
+Front-End Developer | Still learning and improving
 
 🎓 Computer Engineering Student  
-💻 Passionate about learning web technologies and building simple, clean interfaces  
 
 ---
 
 ## 🚀 About Me
-I enjoy learning programming concepts and turning ideas into practical projects.  
-I focus on improving my skills through consistent practice and hands-on coding.
-
----
-
-## 💡 Core Skills
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" align="center"/> HTML  
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" align="center"/> CSS   
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" align="center"/> Tailwind CSS  
+I enjoy learning programming concepts and building simple, clean web interfaces.  
+I improve my skills through practice and small personal projects.
 
 ---
 
 ## 📚 Currently Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22" align="center"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="vertical-align:middle;"/> JavaScript  
 
 
+---
 
+## 💡 Core Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="vertical-align:middle;"/> HTML  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" style="vertical-align:middle;"/> CSS  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" style="vertical-align:middle;"/> Tailwind CSS  
+
+---
 
 ⭐ Always learning. Always building.
