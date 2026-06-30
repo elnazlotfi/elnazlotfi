@@ -1,4 +1,4 @@
-# 👋 Hi, I'm  Elnaz Lotfi a Front-End Developer
+# 👋 Hi, I'm a Front-End Developer
 
 🎓 Computer Engineering Student  
 💻 Passionate about learning web technologies and building simple, clean interfaces  
@@ -11,20 +11,31 @@ I focus on improving my skills through consistent practice and hands-on coding.
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Core Skills
 
-### 💡 Core Skills
-- 🌐 HTML  
-- 🎨 CSS  
-- 💠 Tailwind CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/> HTML  
 
-### 📚 Currently Learning
-- ⚡ JavaScript  
-- 🖌️ Photoshop  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/> CSS  
 
-### 🧰 Tools
-- 🧑‍💻 Git  
-- 🐙 GitHub  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> JavaScript  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="22"/> Tailwind CSS  
+
+---
+
+## 📚 Currently Learning
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="22"/> JavaScript  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="22"/> Photoshop  
+
+---
+
+## 🧰 Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22"/> Git  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> GitHub  
 
 ---
 
@@ -49,18 +60,3 @@ I focus on improving my skills through consistent practice and hands-on coding.
 ---
 
 ⭐ Always learning. Always building.
-
-<!--
-**elnazlotfi/elnazlotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
