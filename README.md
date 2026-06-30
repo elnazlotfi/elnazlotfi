@@ -13,18 +13,18 @@ I improve my skills through practice and small personal projects.
 
 ## 📚 Currently Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="vertical-align:middle;"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" alighn="center"/> JavaScript  
 
 
 ---
 
 ## 💡 Core Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" style="vertical-align:middle;"/> HTML  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"  alighn="center"/> HTML  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" style="vertical-align:middle;"/> CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"  alighn="center"/> CSS  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" style="vertical-align:middle;"/> Tailwind CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20"  alighn="center"/> Tailwind CSS  
 
 ---
 
