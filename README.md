@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elnaz Lotfi  
+# 👋 Hi, I'm Elnaz 
 Front-End Developer | Still learning and improving
 
 🎓 Computer Engineering Student  
